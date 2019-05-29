@@ -1,0 +1,29 @@
+C:\Users\MEHMET KANYILMAZ\Desktop\Anket_Eklenti\Anket_Eklenti\bin\Debug\Anket_Eklenti.dll
+C:\Users\MEHMET KANYILMAZ\Desktop\Anket_Eklenti\Anket_Eklenti\bin\Debug\Anket_Eklenti.pdb
+C:\Users\MEHMET KANYILMAZ\Desktop\Anket_Eklenti\Anket_Eklenti\bin\Debug\Anket_Eklenti.dll.manifest
+C:\Users\MEHMET KANYILMAZ\Desktop\Anket_Eklenti\Anket_Eklenti\bin\Debug\Anket_Eklenti.vsto
+C:\Users\MEHMET KANYILMAZ\Desktop\Anket_Eklenti\Anket_Eklenti\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\MEHMET KANYILMAZ\Desktop\Anket_Eklenti\Anket_Eklenti\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\MEHMET KANYILMAZ\Desktop\Anket_Eklenti\Anket_Eklenti\obj\Debug\Anket_Eklenti.csprojResolveAssemblyReference.cache
+C:\Users\MEHMET KANYILMAZ\Desktop\Anket_Eklenti\Anket_Eklenti\obj\Debug\Anket_Eklenti.Properties.Resources.resources
+C:\Users\MEHMET KANYILMAZ\Desktop\Anket_Eklenti\Anket_Eklenti\obj\Debug\Anket_Eklenti.Ribbon1.resources
+C:\Users\MEHMET KANYILMAZ\Desktop\Anket_Eklenti\Anket_Eklenti\obj\Debug\Anket_Eklenti.csproj.GenerateResource.Cache
+C:\Users\MEHMET KANYILMAZ\Desktop\Anket_Eklenti\Anket_Eklenti\obj\Debug\Anket_Eklenti.dll
+C:\Users\MEHMET KANYILMAZ\Desktop\Anket_Eklenti\Anket_Eklenti\obj\Debug\Anket_Eklenti.pdb
+D:\Anket_Eklenti_Yedek\Anket_Eklenti\bin\Debug\Anket_Eklenti.dll
+D:\Anket_Eklenti_Yedek\Anket_Eklenti\bin\Debug\Anket_Eklenti.pdb
+D:\Anket_Eklenti_Yedek\Anket_Eklenti\bin\Debug\Anket_Eklenti.dll.manifest
+D:\Anket_Eklenti_Yedek\Anket_Eklenti\bin\Debug\Anket_Eklenti.vsto
+D:\Anket_Eklenti_Yedek\Anket_Eklenti\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Anket_Eklenti_Yedek\Anket_Eklenti\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\Anket_Eklenti_Yedek\Anket_Eklenti\obj\Debug\Anket_Eklenti.Properties.Resources.resources
+D:\Anket_Eklenti_Yedek\Anket_Eklenti\obj\Debug\Anket_Eklenti.Ribbon1.resources
+D:\Anket_Eklenti_Yedek\Anket_Eklenti\obj\Debug\Anket_Eklenti.csproj.GenerateResource.Cache
+D:\Anket_Eklenti_Yedek\Anket_Eklenti\obj\Debug\Anket_Eklenti.dll
+D:\Anket_Eklenti_Yedek\Anket_Eklenti\obj\Debug\Anket_Eklenti.pdb
+D:\Anket_Eklenti_Yedek\Anket_Eklenti\bin\Debug\Anket_Eklenti.dll.config
+D:\Anket_Eklenti_Yedek\Anket_Eklenti\obj\Debug\Anket_Eklenti.YardimPaneli.resources
+D:\Anket_Eklenti_Yedek\Anket_Eklenti\obj\Debug\Anket_Eklenti.csprojResolveAssemblyReference.cache
+D:\Anket_Eklenti_Yedek\Anket_Eklenti\obj\Debug\Anket_Eklenti.MissingTemizlemeFormu.resources
+D:\Anket_Eklenti_Yedek\Anket_Eklenti\obj\Debug\Anket_Eklenti.KontrolSorusuEklemeFormu.resources
+D:\Anket_Eklenti_Yedek\Anket_Eklenti\obj\Debug\Anket_Eklenti.Hakkimizda.resources
